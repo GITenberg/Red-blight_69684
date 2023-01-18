@@ -1,0 +1,27 @@
+_repo: Red-blight_69684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knight, Mary Lamar
+    gutenberg_agent_id: '55374'
+    url: http://www.gutenberg.org/2009/agents/55374
+description: ''
+gutenberg_issued: '2023-01-02'
+identifiers:
+  gutenberg: '69684'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.593476
+pgterms:marc905: 20210902033229knight
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Tim Lindell, Bob Taylor and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: 'United States: Lorin L. Morrison,1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Red blight
+url: http://www.gutenberg.org/ebooks/69684
